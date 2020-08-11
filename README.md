@@ -6,6 +6,7 @@
    - Vuex-Persist
    - Vue-Router
    - Node-Sass
+   - PWA
 
 ## Project setup
 ```

@@ -1,5 +1,12 @@
 # my-vue-pack
 
+ - List Pack
+   - Vue 3
+   - Vuex
+   - Vuex-Persist
+   - Vue-Router
+   - Node-Sass
+
 ## Project setup
 ```
 yarn install
